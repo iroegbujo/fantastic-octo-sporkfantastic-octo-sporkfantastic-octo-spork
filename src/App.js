@@ -168,7 +168,7 @@ const App = ()=>{
                 <MdLock className="inp_icon"/>
                 <input 
                   type="password"
-                  placeholder={`Enter your email address.`} 
+                  placeholder={`Enter your password.`} 
                   required
                   className="iinnppuutt"
                   value={pwd}
